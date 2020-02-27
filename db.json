@@ -1,23 +1,14 @@
 {
-   "articles": [
-   {
-      "id":1,
-      "title":"Article 1",
-      "summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus doloremque amet",
-      "imgUrl":"https://source.unsplash.com/random/700x450",
-      "author":{
-         "id":3,
-         "name":"Author 3"
-      },
-      "date":"25-02-2020",
-      "type":{
-         "id":1,
-         "text":"Type 1"
-      },
-      "category":{
-         "id":2,
-         "text":"Category 2"
-      }
-   },
-]
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
