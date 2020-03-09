@@ -394,7 +394,7 @@
 			"category":{
 				"id":1,
 				"text":"Category 1"
-			},
-		},
+			}
+		}
 	]
 }
