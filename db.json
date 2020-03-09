@@ -3,6 +3,9 @@
 		{
 			"id":1,
 			"title":"Article 1",
+			"buttonText": "Read more",
+			"buttonUrl": "/#",
+			"isExternalButton": true,
 			"summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus doloremque amet",
 			"imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
 			"author":{
@@ -22,6 +25,9 @@
 		{
 			"id":2,
 			"title":"Article 2",
+			"buttonText": "Read more",
+			"buttonUrl": "/#",
+			"isExternalButton": false,
 			"summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus doloremque amet",
 			"imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
 			"author":{
@@ -41,6 +47,9 @@
 		{
 			"id":3,
 			"title":"Article 3",
+			"buttonText": "Read more",
+			"buttonUrl": "/#",
+			"isExternalButton": true,
 			"summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus doloremque amet",
 			"imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
 			"author":{
@@ -60,6 +69,9 @@
 		{
 			"id":4,
 			"title":"Article 4",
+			"buttonText": "Read more",
+			"buttonUrl": "/#",
+			"isExternalButton": false,
 			"summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus doloremque amet",
 			"imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
 			"author":{
@@ -79,6 +91,9 @@
 		{
 			"id":5,
 			"title":"Article 5",
+			"buttonText": "Read more",
+			"buttonUrl": "/#",
+			"isExternalButton": false,
 			"summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus doloremque amet",
 			"imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
 			"author":{
@@ -98,6 +113,9 @@
 		{
 			"id":6,
 			"title":"Article 6",
+			"buttonText": "Read more",
+			"buttonUrl": "/#",
+			"isExternalButton": false,
 			"summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus doloremque amet",
 			"imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
 			"author":{
@@ -117,6 +135,9 @@
 		{
 			"id":7,
 			"title":"Article 7",
+			"buttonText": "Read more",
+			"buttonUrl": "/#",
+			"isExternalButton": false,
 			"summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus doloremque amet",
 			"imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
 			"author":{
@@ -136,6 +157,9 @@
 		{
 			"id":8,
 			"title":"Article 8",
+			"buttonText": "Read more",
+			"buttonUrl": "/#",
+			"isExternalButton": false,
 			"summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus doloremque amet",
 			"imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
 			"author":{
@@ -155,6 +179,9 @@
 		{
 			"id":9,
 			"title":"Article 9",
+			"buttonText": "Read more",
+			"buttonUrl": "/#",
+			"isExternalButton": false,
 			"summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus doloremque amet",
 			"imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
 			"author":{
@@ -174,6 +201,9 @@
 		{
 			"id":10,
 			"title":"Article 10",
+			"buttonText": "Read more",
+			"buttonUrl": "/#",
+			"isExternalButton": false,
 			"summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus doloremque amet",
 			"imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
 			"author":{
@@ -193,6 +223,9 @@
 		{
 			"id":11,
 			"title":"Article 11",
+			"buttonText": "Read more",
+			"buttonUrl": "/#",
+			"isExternalButton": false,
 			"summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus doloremque amet",
 			"imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
 			"author":{
@@ -212,6 +245,9 @@
 		{
 			"id":12,
 			"title":"Article 12",
+			"buttonText": "Read more",
+			"buttonUrl": "/#",
+			"isExternalButton": false,
 			"summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus doloremque amet",
 			"imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
 			"author":{
@@ -231,6 +267,9 @@
 		{
 			"id":13,
 			"title":"Article 13",
+			"buttonText": "Read more",
+			"buttonUrl": "/#",
+			"isExternalButton": false,
 			"summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus doloremque amet",
 			"imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
 			"author":{
@@ -250,6 +289,9 @@
 		{
 			"id":14,
 			"title":"Article 14",
+			"buttonText": "Read more",
+			"buttonUrl": "/#",
+			"isExternalButton": false,
 			"summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus doloremque amet",
 			"imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
 			"author":{
@@ -269,6 +311,9 @@
 		{
 			"id":15,
 			"title":"Article 15",
+			"buttonText": "Read more",
+			"buttonUrl": "/#",
+			"isExternalButton": false,
 			"summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus doloremque amet",
 			"imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
 			"author":{
@@ -288,6 +333,9 @@
 		{
 			"id":16,
 			"title":"Article 16",
+			"buttonText": "Read more",
+			"buttonUrl": "/#",
+			"isExternalButton": false,
 			"summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus doloremque amet",
 			"imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
 			"author":{
@@ -307,6 +355,9 @@
 		{
 			"id":17,
 			"title":"Article 17",
+			"buttonText": "Read more",
+			"buttonUrl": "/#",
+			"isExternalButton": false,
 			"summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus doloremque amet",
 			"imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
 			"author":{
@@ -326,6 +377,9 @@
 		{
 			"id":18,
 			"title":"Article 18",
+			"buttonText": "Read more",
+			"buttonUrl": "/#",
+			"isExternalButton": false,
 			"summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus doloremque amet",
 			"imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
 			"author":{
@@ -345,6 +399,9 @@
 		{
 			"id":19,
 			"title":"Article 19",
+			"buttonText": "Read more",
+			"buttonUrl": "/#",
+			"isExternalButton": false,
 			"summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus doloremque amet",
 			"imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
 			"author":{
@@ -364,6 +421,9 @@
 		{
 			"id":20,
 			"title":"Article 20",
+			"buttonText": "Read more",
+			"buttonUrl": "/#",
+			"isExternalButton": false,
 			"summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus doloremque amet",
 			"imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
 			"author":{
@@ -383,6 +443,9 @@
 		{
 			"id":21,
 			"title":"Article 21",
+			"buttonText": "Read more",
+			"buttonUrl": "/#",
+			"isExternalButton": false,
 			"summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus doloremque amet",
 			"imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
 			"author":{
@@ -402,6 +465,9 @@
 		{
 			"id":22,
 			"title":"Article 22",
+			"buttonText": "Read more",
+			"buttonUrl": "/#",
+			"isExternalButton": false,
 			"summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus doloremque amet",
 			"imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
 			"author":{
