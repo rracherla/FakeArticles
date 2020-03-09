@@ -1,444 +1,444 @@
 {
-	"articles": [
-		{
-			"id":1,
-			"title":"Article 1",
-			"buttonText": "Read more",
-			"buttonUrl": "/#",
-			"isExternalButton": true,
-			"summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus doloremque amet",
-			"imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
-			"author":{
-				"id":3,
-				"name":"Author 3"
-			},
-			"date":"25-02-2020",
-			"type":{
-				"id":1,
-				"text":"Type 1"
-			},
-			"category":{
-				"id":2,
-				"text":"Category 2"
-			}
-		},
-		{
-			"id":2,
-			"title":"Article 2",
-			"buttonText": "Read more",
-			"buttonUrl": "/#",
-			"isExternalButton": false,
-			"summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus doloremque amet",
-			"imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
-			"author":{
-				"id":3,
-				"name":"Author 3"
-			},
-			"date":"24-02-2020",
-			"type":{
-				"id":1,
-				"text":"Type 1"
-			},
-			"category":{
-				"id":2,
-				"text":"Category 2"
-			}
-		},
-		{
-			"id":3,
-			"title":"Article 3",
-			"buttonText": "Read more",
-			"buttonUrl": "/#",
-			"isExternalButton": true,
-			"summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus doloremque amet",
-			"imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
-			"author":{
-				"id":3,
-				"name":"Author 3"
-			},
-			"date":"25-01-2020",
-			"type":{
-				"id":1,
-				"text":"Type 1"
-			},
-			"category":{
-				"id":2,
-				"text":"Category 2"
-			}
-		},
-		{
-			"id":4,
-			"title":"Article 4",
-			"buttonText": "Read more",
-			"buttonUrl": "/#",
-			"isExternalButton": false,
-			"summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus doloremque amet",
-			"imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
-			"author":{
-				"id":3,
-				"name":"Author 3"
-			},
-			"date":"23-02-2020",
-			"type":{
-				"id":1,
-				"text":"Type 1"
-			},
-			"category":{
-				"id":2,
-				"text":"Category 2"
-			}
-		},
-		{
-			"id":5,
-			"title":"Article 5",
-			"buttonText": "Read more",
-			"buttonUrl": "/#",
-			"isExternalButton": false,
-			"summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus doloremque amet",
-			"imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
-			"author":{
-				"id":3,
-				"name":"Author 3"
-			},
-			"date":"25-02-2020",
-			"type":{
-				"id":1,
-				"text":"Type 1"
-			},
-			"category":{
-				"id":2,
-				"text":"Category 2"
-			}
-		},
-		{
-			"id":6,
-			"title":"Article 6",
-			"buttonText": "Read more",
-			"buttonUrl": "/#",
-			"isExternalButton": false,
-			"summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit",
-			"imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
-			"author":{
-				"id":3,
-				"name":"Author 3"
-			},
-			"date":"25-02-2020",
-			"type":{
-				"id":1,
-				"text":"Type 1"
-			},
-			"category":{
-				"id":2,
-				"text":"Category 2"
-			}
-		},
-		{
-			"id":7,
-			"title":"Article 7",
-			"buttonText": "Read more",
-			"buttonUrl": "/#",
-			"isExternalButton": false,
-			"summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus doloremque amet",
-			"imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
-			"author":{
-				"id":1,
-				"name":"Author 1"
-			},
-			"date":"21-02-2020",
-			"type":{
-				"id":2,
-				"text":"Type 2"
-			},
-			"category":{
-				"id":2,
-				"text":"Category 2"
-			}
-		},
-		{
-			"id":8,
-			"title":"Article 8",
-			"buttonText": "Read more",
-			"buttonUrl": "/#",
-			"isExternalButton": false,
-			"summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus doloremque amet",
-			"imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
-			"author":{
-				"id":1,
-				"name":"Author 1"
-			},
-			"date":"18-02-2020",
-			"type":{
-				"id":2,
-				"text":"Type 2"
-			},
-			"category":{
-				"id":1,
-				"text":"Category 1"
-			}
-		},
-		{
-			"id":9,
-			"title":"Article 9",
-			"buttonText": "Read more",
-			"buttonUrl": "/#",
-			"isExternalButton": false,
-			"summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus doloremque amet",
-			"imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
-			"author":{
-				"id":1,
-				"name":"Author 1"
-			},
-			"date":"25-02-2020",
-			"type":{
-				"id":2,
-				"text":"Type 2"
-			},
-			"category":{
-				"id":1,
-				"text":"Category 1"
-			}
-		},
-		{
-			"id":10,
-			"title":"Article 10",
-			"buttonText": "Read more",
-			"buttonUrl": "/#",
-			"isExternalButton": false,
-			"summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-			"imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
-			"author":{
-				"id":1,
-				"name":"Author 1"
-			},
-			"date":"25-02-2020",
-			"type":{
-				"id":2,
-				"text":"Type 2"
-			},
-			"category":{
-				"id":1,
-				"text":"Category 1"
-			}
-		},
-		{
-			"id":11,
-			"title":"Article 11",
-			"buttonText": "Read more",
-			"buttonUrl": "/#",
-			"isExternalButton": false,
-			"summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus doloremque amet",
-			"imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
-			"author":{
-				"id":1,
-				"name":"Author 1"
-			},
-			"date":"25-02-2020",
-			"type":{
-				"id":2,
-				"text":"Type 2"
-			},
-			"category":{
-				"id":1,
-				"text":"Category 1"
-			}
-		},
-		{
-			"id":12,
-			"title":"Article 12",
-			"buttonText": "Read more",
-			"buttonUrl": "/#",
-			"isExternalButton": false,
-			"summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus doloremque amet",
-			"imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
-			"author":{
-				"id":1,
-				"name":"Author 1"
-			},
-			"date":"24-02-2020",
-			"type":{
-				"id":2,
-				"text":"Type 2"
-			},
-			"category":{
-				"id":1,
-				"text":"Category 1"
-			}
-		},
-		{
-			"id":13,
-			"title":"Article 13",
-			"buttonText": "Read more",
-			"buttonUrl": "/#",
-			"isExternalButton": false,
-			"summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus doloremque amet",
-			"imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
-			"author":{
-				"id":1,
-				"name":"Author 1"
-			},
-			"date":"24-02-2020",
-			"type":{
-				"id":1,
-				"text":"Type 1"
-			},
-			"category":{
-				"id":1,
-				"text":"Category 1"
-			}
-		},
-		{
-			"id":14,
-			"title":"Article 14",
-			"buttonText": "Read more",
-			"buttonUrl": "/#",
-			"isExternalButton": false,
-			"summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus doloremque amet",
-			"imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
-			"author":{
-				"id":1,
-				"name":"Author 1"
-			},
-			"date":"23-02-2020",
-			"type":{
-				"id":1,
-				"text":"Type 1"
-			},
-			"category":{
-				"id":1,
-				"text":"Category 1"
-			}
-		},
-		{
-			"id":15,
-			"title":"Article 15",
-			"buttonText": "Read more",
-			"buttonUrl": "/#",
-			"isExternalButton": false,
-			"summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus doloremque amet",
-			"imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
-			"author":{
-				"id":1,
-				"name":"Author 1"
-			},
-			"date":"18-02-2020",
-			"type":{
-				"id":1,
-				"text":"Type 1"
-			},
-			"category":{
-				"id":1,
-				"text":"Category 1"
-			}
-		},
-		{
-			"id":16,
-			"title":"Article 16",
-			"buttonText": "Read more",
-			"buttonUrl": "/#",
-			"isExternalButton": false,
-			"summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus doloremque amet",
-			"imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
-			"author":{
-				"id":1,
-				"name":"Author 1"
-			},
-			"date":"12-02-2020",
-			"type":{
-				"id":1,
-				"text":"Type 1"
-			},
-			"category":{
-				"id":1,
-				"text":"Category 1"
-			}
-		},
-		{
-			"id":17,
-			"title":"Article 17",
-			"buttonText": "Read more",
-			"buttonUrl": "/#",
-			"isExternalButton": false,
-			"summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. ",
-			"imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
-			"author":{
-				"id":2,
-				"name":"Author 2"
-			},
-			"date":"12-02-2020",
-			"type":{
-				"id":1,
-				"text":"Type 1"
-			},
-			"category":{
-				"id":1,
-				"text":"Category 1"
-			}
-		},
-		{
-			"id":18,
-			"title":"Article 18",
-			"buttonText": "Read more",
-			"buttonUrl": "/#",
-			"isExternalButton": false,
-			"summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus doloremque amet",
-			"imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
-			"author":{
-				"id":2,
-				"name":"Author 2"
-			},
-			"date":"26-02-2020",
-			"type":{
-				"id":1,
-				"text":"Type 1"
-			},
-			"category":{
-				"id":1,
-				"text":"Category 1"
-			}
-		},
-		{
-			"id":19,
-			"title":"Article 19",
-			"buttonText": "Read more",
-			"buttonUrl": "/#",
-			"isExternalButton": false,
-			"summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus doloremque amet",
-			"imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
-			"author":{
-				"id":2,
-				"name":"Author 2"
-			},
-			"date":"21-02-2020",
-			"type":{
-				"id":3,
-				"text":"Type 3"
-			},
-			"category":{
-				"id":3,
-				"text":"Category 3"
-			}
-		},
-		{
-			"id":20,
-			"title":"Article 20",
-			"buttonText": "Read more",
-			"buttonUrl": "/#",
-			"isExternalButton": false,
-			"summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit",
-			"imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
-			"author":{
-				"id":2,
-				"name":"Author 2"
-			},
-			"date":"20-02-2020",
-			"type":{
-				"id":3,
-				"text":"Type 3"
-			},
-			"category":{
-				"id":3,
-				"text":"Category 3"
-			}
-		}
-	]
+  "articles": [
+    {
+      "id":1,
+      "title":"Article 1",
+      "buttonText": "Read more",
+      "buttonUrl": "/#",
+      "isExternalButton": true,
+      "summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus doloremque amet",
+      "imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
+      "author":{
+        "id":3,
+        "name":"Author 3"
+      },
+      "date":"25-02-2020",
+      "type":{
+        "id":1,
+        "text":"Type 1"
+      },
+      "category":{
+        "id":2,
+        "text":"Category 2"
+      }
+    },
+    {
+      "id":2,
+      "title":"Article 2",
+      "buttonText": "Read more",
+      "buttonUrl": "/#",
+      "isExternalButton": false,
+      "summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus doloremque amet",
+      "imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
+      "author":{
+        "id":3,
+        "name":"Author 3"
+      },
+      "date":"24-02-2020",
+      "type":{
+        "id":1,
+        "text":"Type 1"
+      },
+      "category":{
+        "id":2,
+        "text":"Category 2"
+      }
+    },
+    {
+      "id":3,
+      "title":"Article 3",
+      "buttonText": "Read more",
+      "buttonUrl": "/#",
+      "isExternalButton": true,
+      "summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus doloremque amet",
+      "imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
+      "author":{
+        "id":3,
+        "name":"Author 3"
+      },
+      "date":"25-01-2020",
+      "type":{
+        "id":1,
+        "text":"Type 1"
+      },
+      "category":{
+        "id":2,
+        "text":"Category 2"
+      }
+    },
+    {
+      "id":4,
+      "title":"Article 4",
+      "buttonText": "Read more",
+      "buttonUrl": "/#",
+      "isExternalButton": false,
+      "summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus doloremque amet",
+      "imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
+      "author":{
+        "id":3,
+        "name":"Author 3"
+      },
+      "date":"23-02-2020",
+      "type":{
+        "id":1,
+        "text":"Type 1"
+      },
+      "category":{
+        "id":2,
+        "text":"Category 2"
+      }
+    },
+    {
+      "id":5,
+      "title":"Article 5",
+      "buttonText": "Read more",
+      "buttonUrl": "/#",
+      "isExternalButton": false,
+      "summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus doloremque amet",
+      "imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
+      "author":{
+        "id":3,
+        "name":"Author 3"
+      },
+      "date":"25-02-2020",
+      "type":{
+        "id":1,
+        "text":"Type 1"
+      },
+      "category":{
+        "id":2,
+        "text":"Category 2"
+      }
+    },
+    {
+      "id":6,
+      "title":"Article 6",
+      "buttonText": "Read more",
+      "buttonUrl": "/#",
+      "isExternalButton": false,
+      "summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit",
+      "imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
+      "author":{
+        "id":3,
+        "name":"Author 3"
+      },
+      "date":"25-02-2020",
+      "type":{
+        "id":1,
+        "text":"Type 1"
+      },
+      "category":{
+        "id":2,
+        "text":"Category 2"
+      }
+    },
+    {
+      "id":7,
+      "title":"Article 7",
+      "buttonText": "Read more",
+      "buttonUrl": "/#",
+      "isExternalButton": false,
+      "summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus doloremque amet",
+      "imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
+      "author":{
+        "id":1,
+        "name":"Author 1"
+      },
+      "date":"21-02-2020",
+      "type":{
+        "id":2,
+        "text":"Type 2"
+      },
+      "category":{
+        "id":2,
+        "text":"Category 2"
+      }
+    },
+    {
+      "id":8,
+      "title":"Article 8",
+      "buttonText": "Read more",
+      "buttonUrl": "/#",
+      "isExternalButton": false,
+      "summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus doloremque amet",
+      "imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
+      "author":{
+        "id":1,
+        "name":"Author 1"
+      },
+      "date":"18-02-2020",
+      "type":{
+        "id":2,
+        "text":"Type 2"
+      },
+      "category":{
+        "id":1,
+        "text":"Category 1"
+      }
+    },
+    {
+      "id":9,
+      "title":"Article 9",
+      "buttonText": "Read more",
+      "buttonUrl": "/#",
+      "isExternalButton": false,
+      "summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus doloremque amet",
+      "imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
+      "author":{
+        "id":1,
+        "name":"Author 1"
+      },
+      "date":"25-02-2020",
+      "type":{
+        "id":2,
+        "text":"Type 2"
+      },
+      "category":{
+        "id":1,
+        "text":"Category 1"
+      }
+    },
+    {
+      "id":10,
+      "title":"Article 10",
+      "buttonText": "Read more",
+      "buttonUrl": "/#",
+      "isExternalButton": false,
+      "summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
+      "author":{
+        "id":1,
+        "name":"Author 1"
+      },
+      "date":"25-02-2020",
+      "type":{
+        "id":2,
+        "text":"Type 2"
+      },
+      "category":{
+        "id":1,
+        "text":"Category 1"
+      }
+    },
+    {
+      "id":11,
+      "title":"Article 11",
+      "buttonText": "Read more",
+      "buttonUrl": "/#",
+      "isExternalButton": false,
+      "summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus doloremque amet",
+      "imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
+      "author":{
+        "id":1,
+        "name":"Author 1"
+      },
+      "date":"25-02-2020",
+      "type":{
+        "id":2,
+        "text":"Type 2"
+      },
+      "category":{
+        "id":1,
+        "text":"Category 1"
+      }
+    },
+    {
+      "id":12,
+      "title":"Article 12",
+      "buttonText": "Read more",
+      "buttonUrl": "/#",
+      "isExternalButton": false,
+      "summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus doloremque amet",
+      "imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
+      "author":{
+        "id":1,
+        "name":"Author 1"
+      },
+      "date":"24-02-2020",
+      "type":{
+        "id":2,
+        "text":"Type 2"
+      },
+      "category":{
+        "id":1,
+        "text":"Category 1"
+      }
+    },
+    {
+      "id":13,
+      "title":"Article 13",
+      "buttonText": "Read more",
+      "buttonUrl": "/#",
+      "isExternalButton": false,
+      "summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus doloremque amet",
+      "imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
+      "author":{
+        "id":1,
+        "name":"Author 1"
+      },
+      "date":"24-02-2020",
+      "type":{
+        "id":1,
+        "text":"Type 1"
+      },
+      "category":{
+        "id":1,
+        "text":"Category 1"
+      }
+    },
+    {
+      "id":14,
+      "title":"Article 14",
+      "buttonText": "Read more",
+      "buttonUrl": "/#",
+      "isExternalButton": false,
+      "summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus doloremque amet",
+      "imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
+      "author":{
+        "id":1,
+        "name":"Author 1"
+      },
+      "date":"23-02-2020",
+      "type":{
+        "id":1,
+        "text":"Type 1"
+      },
+      "category":{
+        "id":1,
+        "text":"Category 1"
+      }
+    },
+    {
+      "id":15,
+      "title":"Article 15",
+      "buttonText": "Read more",
+      "buttonUrl": "/#",
+      "isExternalButton": false,
+      "summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus doloremque amet",
+      "imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
+      "author":{
+        "id":1,
+        "name":"Author 1"
+      },
+      "date":"18-02-2020",
+      "type":{
+        "id":1,
+        "text":"Type 1"
+      },
+      "category":{
+        "id":1,
+        "text":"Category 1"
+      }
+    },
+    {
+      "id":16,
+      "title":"Article 16",
+      "buttonText": "Read more",
+      "buttonUrl": "/#",
+      "isExternalButton": false,
+      "summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus doloremque amet",
+      "imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
+      "author":{
+        "id":1,
+        "name":"Author 1"
+      },
+      "date":"12-02-2020",
+      "type":{
+        "id":1,
+        "text":"Type 1"
+      },
+      "category":{
+        "id":1,
+        "text":"Category 1"
+      }
+    },
+    {
+      "id":17,
+      "title":"Article 17",
+      "buttonText": "Read more",
+      "buttonUrl": "/#",
+      "isExternalButton": false,
+      "summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. ",
+      "imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
+      "author":{
+        "id":2,
+        "name":"Author 2"
+      },
+      "date":"12-02-2020",
+      "type":{
+        "id":1,
+        "text":"Type 1"
+      },
+      "category":{
+        "id":1,
+        "text":"Category 1"
+      }
+    },
+    {
+      "id":18,
+      "title":"Article 18",
+      "buttonText": "Read more",
+      "buttonUrl": "/#",
+      "isExternalButton": false,
+      "summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus doloremque amet",
+      "imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
+      "author":{
+        "id":2,
+        "name":"Author 2"
+      },
+      "date":"26-02-2020",
+      "type":{
+        "id":1,
+        "text":"Type 1"
+      },
+      "category":{
+        "id":1,
+        "text":"Category 1"
+      }
+    },
+    {
+      "id":19,
+      "title":"Article 19",
+      "buttonText": "Read more",
+      "buttonUrl": "/#",
+      "isExternalButton": false,
+      "summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus doloremque amet",
+      "imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
+      "author":{
+        "id":2,
+        "name":"Author 2"
+      },
+      "date":"21-02-2020",
+      "type":{
+        "id":3,
+        "text":"Type 3"
+      },
+      "category":{
+        "id":3,
+        "text":"Category 3"
+      }
+    },
+    {
+      "id":20,
+      "title":"Article 20",
+      "buttonText": "Read more",
+      "buttonUrl": "/#",
+      "isExternalButton": false,
+      "summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit",
+      "imgUrl":"https://source.unsplash.com/collection/2088686/700x450",
+      "author":{
+        "id":2,
+        "name":"Author 2"
+      },
+      "date":"20-02-2020",
+      "type":{
+        "id":3,
+        "text":"Type 3"
+      },
+      "category":{
+        "id":3,
+        "text":"Category 3"
+      }
+    }
+  ]
 }
