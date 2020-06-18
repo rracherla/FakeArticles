@@ -4,7 +4,7 @@
 			"title": "Article 1",
 			"buttonText": "Play Video",
 			"buttonUrl": "/#",
-			"isExternalUrl": true,
+			"isExternalUrl": false,
 			"summary": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus doloremque amet",
 			"imgUrl": "https://source.unsplash.com/collection/2088686/700x450",
 			"author": {
@@ -53,7 +53,7 @@
 			"title": "Article 3",
 			"buttonText": "Download",
 			"buttonUrl": "/#",
-			"isExternalUrl": true,
+			"isExternalUrl": false,
 			"summary": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus doloremque amet",
 			"imgUrl": "https://source.unsplash.com/collection/2088686/700x450",
 			"author": {
@@ -77,7 +77,7 @@
 			"title": "Article 4",
 			"buttonText": "Read more",
 			"buttonUrl": "/#",
-			"isExternalUrl": false,
+			"isExternalUrl": true,
 			"summary": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus doloremque amet",
 			"imgUrl": "https://source.unsplash.com/collection/2088686/700x450",
 			"author": {
