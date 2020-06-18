@@ -71,7 +71,7 @@
 				"id":2,
 				"text":"Category 2"
 			},
-			"assetType": "PDF"
+			"assetType": "PDF",
 		},
 		{
 			"id":4,
@@ -138,7 +138,7 @@
 				"id":2,
 				"text":"Category 2"
 			},
-			"assetType": "PDF"
+			"assetType": "PDF",
 		},
 		{
 			"id":7,
@@ -358,7 +358,7 @@
 			"category":{
 				"id":1,
 				"text":"Category 1"
-			}
+			},
 		},
 	]
 }
