@@ -10,7 +10,8 @@
 			"imgUrl": "https://source.unsplash.com/collection/2088686/700x450",
 			"author": {
 				"id": 2,
-				"name": "Author 2"
+				"name": "Author 2",
+				"image": "https://source.unsplash.com/collection/2088686/500x500",
 			},
 			"date": "25-02-2020",
 			"isNew": true,
@@ -84,7 +85,8 @@
 			"imgUrl": "https://source.unsplash.com/collection/2088686/700x450",
 			"author": {
 				"id": 3,
-				"name": "Author 3"
+				"name": "Author 3",
+				"image": "https://source.unsplash.com/collection/2088686/500x500",
 			},
 			"date": "23-02-2020",
 			"type": {
