@@ -5,6 +5,7 @@
 			"buttonText": "Play Video",
 			"buttonUrl": "/#",
 			"isExternalUrl": false,
+			"isFeatured": true,
 			"summary": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus doloremque amet",
 			"imgUrl": "https://source.unsplash.com/collection/2088686/700x450",
 			"author": {
@@ -78,6 +79,7 @@
 			"buttonText": "Read more",
 			"buttonUrl": "/#",
 			"isExternalUrl": true,
+			"isFeatured": true,
 			"summary": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque temporibus doloremque amet",
 			"imgUrl": "https://source.unsplash.com/collection/2088686/700x450",
 			"author": {
